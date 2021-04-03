@@ -1,4 +1,4 @@
-# todo_getx
+# Flutter Dispenser Obat App
 
 A new Flutter project.
 
